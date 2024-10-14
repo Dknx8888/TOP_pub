@@ -1,0 +1,6 @@
+[submodule "dknx-odin-css-exercises"]
+	path = dknx-odin-css-exercises
+	url = https://github.com/Dknx8888/dknx-odin-css-exercises
+[submodule "odin-recipes"]
+	path = odin-recipes
+	url = https://github.com/Dknx8888/odin-recipes
