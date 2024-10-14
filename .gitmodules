@@ -4,3 +4,6 @@
 [submodule "odin-recipes"]
 	path = odin-recipes
 	url = https://github.com/Dknx8888/odin-recipes
+[submodule "TOP-RPS"]
+	path = TOP-RPS
+	url = https://github.com/Dknx8888/TOP-RPS
