@@ -7,3 +7,6 @@
 [submodule "TOP-RPS"]
 	path = TOP-RPS
 	url = https://github.com/Dknx8888/TOP-RPS
+[submodule "TOP-JS-Ex"]
+	path = TOP-JS-Ex
+	url = https://github.com/Dknx8888/TOP-JS-Ex
