@@ -10,3 +10,6 @@
 [submodule "TOP-JS-Ex"]
 	path = TOP-JS-Ex
 	url = https://github.com/Dknx8888/TOP-JS-Ex
+[submodule "TOP-landing-page"]
+	path = TOP-landing-page
+	url = https://github.com/Dknx8888/TOP-landing-page.git
